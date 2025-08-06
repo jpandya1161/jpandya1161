@@ -10,6 +10,7 @@
 Check out my GitHub trophies below!  
 
 ![Trophies Row 1](https://github-profile-trophy.vercel.app/?username=jpandya1161&theme=gruvbox&types=Commits,Repositories,Stars,Forks&row=1&column=4&margin-w=10&margin-h=10&no-bg=true&no-frame=true)
+
 ![Trophies Row 2](https://github-profile-trophy.vercel.app/?username=jpandya1161&theme=gruvbox&types=PullRequest,PullRequestMerged,PullRequestReviewer,Issue,Contributor&row=1&column=5&margin-w=10&margin-h=10&no-bg=true&no-frame=true)
 
 ---
