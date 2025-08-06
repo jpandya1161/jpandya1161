@@ -5,8 +5,11 @@
 
 ---
 
-### 🏆 GitHub Achievements
-![Trophy](https://github-profile-trophy.vercel.app/?username=jpandya1161&theme=gruvbox&margin-w=8&margin-h=8&no-frame=true&no-bg=true&row=2&column=3&exclude=Issues,PullRequest)
+## 🏆 GitHub Achievements
+
+Check out my GitHub trophies below!  
+
+![Trophy Cabinet](https://github-profile-trophy.vercel.app/?username=jpandya1161&theme=gruvbox&row=3&column=4&margin-w=10&margin-h=10&no-bg=true&no-frame=true)
 
 ---
 
