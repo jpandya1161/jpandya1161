@@ -6,7 +6,7 @@
 ---
 
 ### 🏆 GitHub Achievements
-![Trophy](https://github-profile-trophy.vercel.app/?username=YourUsername&theme=gruvbox)
+![Trophy](https://github-profile-trophy.vercel.app/?username=jpandya1161&theme=gruvbox&margin-w=8&margin-h=8&no-frame=true&no-bg=true&row=2&column=3&exclude=Issues,PullRequest)
 
 ---
 
