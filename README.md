@@ -9,7 +9,7 @@
 
 Check out my GitHub trophies below!  
 
-![Trophy Cabinet](https://github-profile-trophy.vercel.app/?username=jpandya1161&theme=gruvbox&row=3&column=4&margin-w=10&margin-h=10&no-bg=true&no-frame=true)
+![Trophy Cabinet](https://github-profile-trophy.vercel.app/?username=jpandya1161&theme=gruvbox&row=2&column=6&margin-w=10&margin-h=10&no-bg=true&no-frame=true)
 
 ---
 
