@@ -10,6 +10,7 @@
 ![All Trophies](https://github-profile-trophy.vercel.app/?username=jpandya1161&theme=gruvbox&types=Commits,Repositories,Forks,PullRequest,PullRequestMerged,Stars,PullRequestReviewer,Issue,Contributor,Follower&row=2&column=5&margin-w=10&margin-h=10&no-bg=true&no-frame=true)
 
 
+
 ---
 
 ### 📄 My Resume
