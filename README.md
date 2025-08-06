@@ -10,12 +10,6 @@
 
 ---
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
-
----
-
 ### 🌐 Connect With Me
 - 📧 Email: jay1106pandya@gmail.com
 - 💼 [LinkedIn](www.linkedin.com/in/jay-pandya-0a289b199)
