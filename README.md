@@ -10,6 +10,11 @@
 
 ---
 
+### 📄 My Resume
+[![Resume](https://img.shields.io/badge/View%20My%20Resume-blue?style=for-the-badge)](https://github.com/jpandya1161/resume/blob/main/Resume_JayPandya.pdf)
+
+---
+
 ### 🌐 Connect With Me
 - 📧 Email: jay1106pandya@gmail.com
 - 💼 [LinkedIn](www.linkedin.com/in/jay-pandya-0a289b199)
