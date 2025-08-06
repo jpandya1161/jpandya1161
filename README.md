@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Jay! 👋
 
-<!--
-**jpandya1161/jpandya1161** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 🎓 Graduate student passionate about **Machine Learning, Data Science, and Full-Stack Development**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏆 GitHub Achievements
+![Trophy](https://github-profile-trophy.vercel.app/?username=YourUsername&theme=gruvbox)
+
+---
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+
+---
+
+### 🌐 Connect With Me
+- 📧 Email: jay1106pandya@gmail.com
+- 💼 [LinkedIn](www.linkedin.com/in/jay-pandya-0a289b199)
+
+### 💻 Coding Profiles
+- 🏹 [LeetCode](https://leetcode.com/u/jpandya1161/)
+- 🏹 [Codeforces](https://codeforces.com/profile/jpandya1161)
+- 🏹 [Coding Ninjas](https://www.naukri.com/code360/profile/jaypandya)
