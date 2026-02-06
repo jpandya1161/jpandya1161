@@ -12,7 +12,7 @@
 ---
 
 ### 🌐 Connect With Me
-- 📧 Email: jay1106pandya@gmail.com
+- 📧 Email: jaypandya1161@gmail.com
 - 💼 [LinkedIn](www.linkedin.com/in/jay-pandya-0a289b199)
 
 ### 💻 Coding Profiles
