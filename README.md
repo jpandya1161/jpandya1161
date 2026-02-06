@@ -13,7 +13,7 @@
 
 ### 📄 My Resume
 
-[![Resume](https://img.shields.io/badge/View%20My%20Resume-blue?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/jpandya1161/jpandya1161/blob/main/Resume_JayPandya.pdf)
+[![Resume](https://img.shields.io/badge/View%20My%20Resume-blue?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/jpandya1161/jpandya1161/blob/main/Jay_Pandya_AI_SDE_Resume.pdf)
 
 ---
 
