@@ -5,12 +5,6 @@
 
 ---
 
-## 🏆 GitHub Achievements
-
-![All Trophies](https://github-profile-trophy.vercel.app/?username=jpandya1161&theme=gruvbox&types=Commits,Repositories,Forks,PullRequest,Stars,PullRequestReviewer,Issue,Contributor,Follower&row=1&column=9&margin-w=10&margin-h=10&no-bg=true&no-frame=true)
-
----
-
 ### 📄 My Resume
 
 [![Resume](https://img.shields.io/badge/View%20My%20Resume-blue?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/jpandya1161/jpandya1161/blob/main/Jay_Pandya_AI_SDE_Resume.pdf)
