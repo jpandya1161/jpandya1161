@@ -1,7 +1,7 @@
 # Hi there, I'm Jay! 👋
 
 ### 🚀 About Me
-- 🎓 Graduate student passionate about **Machine Learning, Data Science, and Full-Stack Development**
+- 🎓 I am passionate about **Machine Learning, Data Science, and Full-Stack Development**
 
 ---
 
